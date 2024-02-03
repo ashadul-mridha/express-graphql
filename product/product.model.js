@@ -2,7 +2,7 @@ export const products = [
     {
         id: 1,
         desc: 'red shirt',
-        price: 29.99,
+        price: 9.99,
         reviews: [
             {
                 id: 1,
@@ -20,5 +20,6 @@ export const products = [
         id: 2,
         desc: 'red jeans',
         price: 49.99,
+        reviews: []
     }
 ]
